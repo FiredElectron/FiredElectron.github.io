@@ -1,7 +1,13 @@
 ---
-layout: home
-title: "Engineering Portfolio"
+layout: single
+title: "Lillian LeRoy"
+permalink: /
+author_profile: true
 ---
+
+# Engineering Portfolio
+
+Welcome to my engineering portfolio.
 
 # Hello, I'm Lillian LeRoy
 **Electrical Engineering Junior at California State Polytechnic University, Pomona (CPP)**  
