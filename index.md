@@ -11,7 +11,7 @@ Welcome to my engineering portfolio.
 
 # Hello, I'm Lillian LeRoy
 **Electrical Engineering Junior at California State Polytechnic University, Pomona (CPP)**  
-📍 [Azusa, CA] | ✉️ [lillyleroy52@gmail.com] | [🔗 LinkedIn](https://www.linkedin.com/in/lillianleroy-student) | [📄 Download Resume]([Lillian LeRoy Resume Summer 26.pdf](https://github.com/user-attachments/files/32256153/Lillian.LeRoy.Resume.Summer.26.pdf)]
+📍 Azusa, CA | ✉️ lillyleroy52@gmail.com | 🔗 LinkedIn(https://www.linkedin.com/in/lillianleroy-student) | 📄 Download Resume([Lillian LeRoy Resume Summer 26.pdf]https://github.com/user-attachments/files/32256153/Lillian.LeRoy.Resume.Summer.26.pdf]
 
 ---
 
