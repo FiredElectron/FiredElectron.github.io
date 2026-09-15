@@ -1,12 +1,12 @@
-# 1. Add the remote theme plugin
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache # Recommended by Minimal Mistakes for faster builds
+  - jekyll-include-cache
 
-# 2. Tell GitHub Pages to fetch Minimal Mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.24.4"
+minimal_mistakes_skin: "default"
 
-# 3. Choose your visual skin (e.g., default, dark, mint, neon, contrast)
-minimal_mistakes_skin: "default" 
-title: Lillian LeRoy
-description: Engineering Portfolio & Academic Research
+title: "Lillian LeRoy"
+description: "Engineering Portfolio & Academic Research"
+url: "https://FiredElectron.github.io"
+baseurl: ""
