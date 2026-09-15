@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Lillian LeRoy - Academic & Professional Portfolio
+layout: single
+title: Lillian LeRoy - Academic & Engineering Portfolio
+permalink: /
+author_profile: true #
 ---
 
 # Hello, I'm Lillian LeRoy
