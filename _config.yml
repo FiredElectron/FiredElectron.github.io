@@ -7,9 +7,10 @@ plugins:
 minimal_mistakes_skin: "default"
 
 title: "Lillian LeRoy"
+logo: 
 description: "Engineering Portfolio & Academic Research"
 url: "https://FiredElectron.github.io"
-baseurl: ""
+baseurl: "/assets/images/LillianLeRoyHeadshot.JPG"
 
 # Force all layout views to expand to the maximum full-width column size
 defaults:
