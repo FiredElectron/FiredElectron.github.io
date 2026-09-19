@@ -10,7 +10,7 @@ author_profile: true
 
 **Electrical Engineering Junior at California State Polytechnic University, Pomona**
 
-📍 Azusa, CA | ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lillianleroy-student) | 📄 [Download Resume]([Lillian_LeRoy_Resume.pdf](https://github.com/user-attachments/files/32409611/Lillian_LeRoy_Resume.pdf)
+📍 Azusa, CA | ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lillianleroy-student) | 📄 ([Download Resume](https://github.com/user-attachments/files/32409611/Lillian_LeRoy_Resume.pdf))
 
 ---
 
@@ -34,13 +34,9 @@ Currently pursuing internship opportunities in the aerospace industry to continu
     Worked in an interdisciplinary group of four to design a robotic arm module for gathering data on deep space missions.
     [[Demo](#)]
 
-*   **Quadcopter for Topographical Data Collection** | *Arduino*  
-    Women in Engineering group project focused on collecting topographical data.   
-    [[Demo](link)]
-
 ---
 
-## 💼 Core Skills & Competencies
+## 💼 Skills
 *   **Technical:** LTSpice, PSpice, KiCAD, ESP-IDF, Arduino, C/C++, Osciloscope, Digital Multimeter, Python
 *   **Research:** Data Analysis, Technical Writing, Literature Reviews, Quantitative Methods
 *   **Languages:** English (Native), Spanish (Conversational)
@@ -49,10 +45,14 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 
 ## 🎓 Education
 **B.S. in Electrical Engineering**
-*California State Polytechnic University, Pomona* 
+
+*California State Polytechnic University, Pomona*
+
 Expected Graduation: December 2028  
-*   **GPA:** 3.6
-*   **Relevant Coursework:** Electrical circuit analysis, C++
 
 **A.S. in Physics, A.S. in Mathematics**
+
 *Citrus College*
+
+*   **GPA:** 3.6
+*   **Relevant Coursework:** Electrical circuit analysis, C++, Electronics
