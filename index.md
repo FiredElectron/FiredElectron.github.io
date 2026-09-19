@@ -10,7 +10,7 @@ author_profile: true
 
 **Electrical Engineering Junior at California State Polytechnic University, Pomona**
 
-📍 Azusa, CA | ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lillianleroy-student) | 📄 ([Download Resume](https://github.com/user-attachments/files/32409611/Lillian_LeRoy_Resume.pdf))
+📍 Azusa, CA | ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lillianleroy-student) | 📄 [Download Resume](https://github.com/user-attachments/files/32409611/Lillian_LeRoy_Resume.pdf)
 
 ---
 
