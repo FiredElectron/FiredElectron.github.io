@@ -15,14 +15,14 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 ---
 
 ## Work Experience
-* **Honeybee Robotics, a Blue Origin Company**
-* Electrical Engineering Intern
+**Honeybee Robotics, a Blue Origin Company**
+*Electrical Engineering Intern*
 * CP-21 Lunar Rover
 
 ---
 
 ## Published Research
-*   **"Investigating the Effects of Autonomous Dry Mechanical Cleaning on Solar Panel Performance"** (2026)  
+**"Investigating the Effects of Autonomous Dry Mechanical Cleaning on Solar Panel Performance"** (2026)  
     *Advisor: Dr. Lucia Riderer, Ed.D.*  
     This paper looks at how autonomously cleaning solar panels mechanically could be a source of damage due to scratches from rough sand particles; further investigation is needed.
     [![Read Paper](https://shields.io)]([https://citruscollege.edu](https://files.citruscollege.edu/academics/physics/lillianleroy2026ada.pdf))
@@ -30,7 +30,7 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 ---
 
 ## Projects
-*   **Deep Space Robotic Arm Module** | *Arduino, soldering, circuit design*  
+**Deep Space Robotic Arm Module** | *Arduino, soldering, circuit design*  
     Worked in an interdisciplinary group of four to design a robotic arm module for gathering data on deep space missions.
     [[Demo](#)]
 
