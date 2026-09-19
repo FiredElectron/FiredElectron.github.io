@@ -10,18 +10,22 @@ $muted-text-color:      #A5B4FC;  // Soft Lavender Blue for secondary info/dates
 
 // 2. Navigation, Sidebar, and Global Accents
 $primary-color:         #38BDF8;  // Vibrant Sky Blue for active highlights/buttons
-$link-color:            #38BDF8;  // Sky Blue for hyperlinks (pops well on dark navy)
+$link-color:            #38BDF8;  // Sky Blue for hyperlinks
 $link-color-hover:      #7DD3FC;  // Lighter blue for hover effects
 $masthead-link-color:   #FFFFFF;  // White text for top header navigation links
 
-// 3. Import the core theme structure to bundle your modifications
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+// 3. Direct Theme Import (Bypasses Liquid compilation errors)
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
 // 4. Custom Dark Mode Fixes for Theme UI Borders
 #main, .masthead, .page__footer {
   border-color: rgba(255, 255, 255, 0.1) !important;
 }
-.sidebar {
-  opacity: 0.95;
+
+// Optional: Make the header logo profile photo circular
+.masthead__brand-logo {
+  border-radius: 50%;
+  max-height: 2.5rem; 
+  object-fit: cover;
 }
