@@ -14,7 +14,14 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 
 ---
 
-## Publications & Papers
+## Work Experience
+* **Honeybee Robotics, a Blue Origin Company**
+* Electrical Engineering Intern
+* CP-21 Lunar Rover
+
+---
+
+## Published Research
 *   **"Investigating the Effects of Autonomous Dry Mechanical Cleaning on Solar Panel Performance"** (2026)  
     *Advisor: Dr. Lucia Riderer, Ed.D.*  
     This paper looks at how autonomously cleaning solar panels mechanically could be a source of damage due to scratches from rough sand particles; further investigation is needed.
