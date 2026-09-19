@@ -49,8 +49,10 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 
 ## 🎓 Education
 **B.S. in Electrical Engineering**
-*California State Polytechnic University, Pomona* | Expected Graduation: December 2028  
+*California State Polytechnic University, Pomona* 
+Expected Graduation: December 2028  
 *   **GPA:** 3.6
 *   **Relevant Coursework:** Electrical circuit analysis, C++
+
 **A.S. in Physics, A.S. in Mathematics**
 *Citrus College*
