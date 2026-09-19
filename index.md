@@ -1,16 +1,11 @@
 ---
 layout: single
-title: "Lillian LeRoy"
 permalink: /
-author_profile: true
+author_profile: false
 ---
 
-# Engineering Portfolio
-
-
-**Electrical Engineering Junior at California State Polytechnic University, Pomona**
-
-📍 Azusa, CA | ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lillianleroy-student) | 📄 [Download Resume](https://github.com/user-attachments/files/32409611/Lillian_LeRoy_Resume.pdf)
+| <img src="/LillianLeRoyHeadshot.JPG" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1; min-width: 160px; border: 3px solid rgba(255,255,255,0.15);" alt="Lillian LeRoy"> | # Lillian LeRoy <br> **Engineering Portfolio** <br><br> *Electrical Engineering Junior at California State Polytechnic University, Pomona* <br><br> 📍 Azusa, CA &nbsp;&nbsp; ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) &nbsp;&nbsp; 🔗 [LinkedIn](https://linkedin.com) &nbsp;&nbsp; 📄 [Download Resume](#) |
+|---|---|
 
 ---
 
