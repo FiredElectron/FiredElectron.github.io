@@ -14,11 +14,7 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 
 ---
 
-<h2>
-  <img src="https://example.com" width="30" height="30" align="center" alt="HB-A-Blue-Origin-Co.jpg"> 
-  Work Experience
-</h2>
-
+## Work Experience
 * **Honeybee Robotics, a Blue Origin Company**
 * Electrical Engineering Intern
 * CP-21 Lunar Rover
