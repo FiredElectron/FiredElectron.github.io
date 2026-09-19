@@ -15,9 +15,7 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 ---
 
 ## Work Experience
-**Honeybee Robotics, a Blue Origin Company**
-
-*Electrical Engineering Intern*
+**Honeybee Robotics, a Blue Origin Company** | *Electrical Engineering Intern*
 
 * CP-21 Lunar Rover
 
