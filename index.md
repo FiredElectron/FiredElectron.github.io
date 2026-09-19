@@ -8,9 +8,8 @@ author_profile: false
 
 ---
 
-## 📌 About Me
-While at Citrus College, I earned associates degrees in both physics and mathematics, was apart of the Women in Engineering program where I completed an individual research project on mechanical self-cleaning solar panels, and was president of the Engineering Club. 
-I am interested in robotics, space exploration, and renewable energy technology. 
+Expected graduation in December 2028
+Electrical Engineer interested in space exploration, robotics, and renewable energy.
 Currently pursuing internship opportunities in the aerospace industry to continue learning and developing as an electrical engineer.
 
 ---
