@@ -25,7 +25,7 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 **"Investigating the Effects of Autonomous Dry Mechanical Cleaning on Solar Panel Performance"** (2026)  
     *Advisor: Dr. Lucia Riderer, Ed.D.*  
     This paper looks at how autonomously cleaning solar panels mechanically could be a source of damage due to scratches from rough sand particles; further investigation is needed.
-    [Read Paper]([https://citruscollege.edu](https://files.citruscollege.edu/academics/physics/lillianleroy2026ada.pdf)
+    [Read Paper](https://files.citruscollege.edu/academics/physics/lillianleroy2026ada.pdf)
 
 ---
 
