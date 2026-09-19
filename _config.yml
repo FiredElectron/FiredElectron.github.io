@@ -10,3 +10,11 @@ title: "Lillian LeRoy"
 description: "Engineering Portfolio & Academic Research"
 url: "https://FiredElectron.github.io"
 baseurl: ""
+
+# Force all layout views to expand to the maximum full-width column size
+defaults:
+  - scope:
+      path: "" # Applies to all files in the repository
+    values:
+      layout: "single"
+      classes: wide
