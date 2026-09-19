@@ -7,7 +7,7 @@ plugins:
 minimal_mistakes_skin: "default"
 
 title: "Lillian LeRoy"
-logo: 
+logo: "LillianLeRoyHeadshot.JPG"
 description: "Engineering Portfolio & Academic Research"
 url: "https://FiredElectron.github.io"
 baseurl: "/assets/images/LillianLeRoyHeadshot.JPG"
