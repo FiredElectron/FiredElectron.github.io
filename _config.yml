@@ -1,3 +1,4 @@
+# FORCE_CACHE_PURGE_RESET: V2
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
 plugins:
@@ -7,15 +8,15 @@ plugins:
 minimal_mistakes_skin: "air"
 
 title: "Lillian LeRoy"
-logo: "LillianLeRoyHeadshot.JPG"
+logo: "/LillianLeRoyHeadshot.JPG"
+
 description: "Engineering Portfolio & Academic Research"
 url: "https://FiredElectron.github.io"
-baseurl: "/assets/images/LillianLeRoyHeadshot.JPG"
+baseurl: ""
 
-# Force all layout views to expand to the maximum full-width column size
 defaults:
   - scope:
-      path: "" # Applies to all files in the repository
+      path: "" 
     values:
       layout: "single"
       classes: wide
