@@ -14,7 +14,7 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 
 ---
 
-## 📄 Publications & Papers
+## Publications & Papers
 *   **"Investigating the Effects of Autonomous Dry Mechanical Cleaning on Solar Panel Performance"** (2026)  
     *Advisor: Dr. Lucia Riderer, Ed.D.*  
     This paper looks at how autonomously cleaning solar panels mechanically could be a source of damage due to scratches from rough sand particles; further investigation is needed.
@@ -22,21 +22,21 @@ Currently pursuing internship opportunities in the aerospace industry to continu
 
 ---
 
-## 🛠️ Projects
+## Projects
 *   **Deep Space Robotic Arm Module** | *Arduino, soldering, circuit design*  
     Worked in an interdisciplinary group of four to design a robotic arm module for gathering data on deep space missions.
     [[Demo](#)]
 
 ---
 
-## 💼 Skills
+## Skills
 *   **Technical:** LTSpice, PSpice, KiCAD, ESP-IDF, Arduino, C/C++, Osciloscope, Digital Multimeter, Python
 *   **Research:** Data Analysis, Technical Writing, Literature Reviews, Quantitative Methods
 *   **Languages:** English (Native), Spanish (Conversational)
 
 ---
 
-## 🎓 Education
+## Education
 **B.S. in Electrical Engineering**
 
 *California State Polytechnic University, Pomona*
