@@ -8,7 +8,7 @@ author_profile: false
 
 ---
 
-Expected graduation in December 2028
+Expected graduation in December 2028. 
 Electrical Engineer interested in space exploration, robotics, and renewable energy.
 Currently pursuing internship opportunities in the aerospace industry to continue learning and developing as an electrical engineer.
 
