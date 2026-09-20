@@ -4,14 +4,14 @@ permalink: /
 author_profile: false
 ---
 
-<img src="/LillianLeRoyHeadshot.JPG" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1; min-width: 160px; border: 3px solid rgba(255,255,255,0.15);" alt="Lillian LeRoy"> <br> **Lillian LeRoy** <br><br> *Electrical Engineering Junior at California State Polytechnic University, Pomona* <br><br> 📍 Azusa, CA &nbsp;&nbsp; ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) &nbsp;&nbsp; 🔗 [LinkedIn](https://linkedin.com) &nbsp;&nbsp; 📄 [Download Resume](https://github.com/user-attachments/files/32442711/Lillian_LeRoy_Resume_Sept_2026.pdf)
+<img src="/LillianLeRoyHeadshot.JPG" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1; min-width: 160px; border: 3px solid rgba(255,255,255,0.15);" alt="Lillian LeRoy"> <br> **Lillian LeRoy** <br><br> *Electrical Engineering Junior at California State Polytechnic University, Pomona* <br><br> Azusa, CA &nbsp;&nbsp; ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) &nbsp;&nbsp; 🔗 [LinkedIn](https://linkedin.com) &nbsp;&nbsp; 📄 [Download Resume](https://github.com/user-attachments/files/32442711/Lillian_LeRoy_Resume_Sept_2026.pdf)
 
 
 ---
-
-Expected graduation in December 2028. 
+ 
 Electrical Engineer interested in space exploration, robotics, and renewable energy.
 Currently pursuing internship opportunities in the aerospace industry to continue learning and developing as an electrical engineer.
+Expected graduation in December 2028.
 
 ---
 
@@ -50,6 +50,8 @@ This paper looks at how autonomously cleaning solar panels mechanically could be
 Expected: December 2028  
 *   **GPA:** 3.6
 *   **Relevant Coursework:** Electrical circuit analysis, C++, Electronics
+
+<br>
 
 **A.S. in Physics, A.S. in Mathematics** | *Citrus College*
 
