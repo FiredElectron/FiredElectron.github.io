@@ -45,13 +45,15 @@ This paper looks at how autonomously cleaning solar panels mechanically could be
 ---
 
 ## Education
+
 **B.S. in Electrical Engineering** | *California State Polytechnic University, Pomona*
 
-Expected: December 2028  
-*   **GPA:** 3.6
-*   **Relevant Coursework:** Electrical circuit analysis, C++, Electronics
+Expected: December 2028
 
-<br>
+<ul>
+  <li><strong>GPA:</strong> 3.6</li>
+  <li><strong>Relevant Coursework:</strong> Electrical circuit analysis, C++, Electronics</li>
+</ul>
 
 **A.S. in Physics, A.S. in Mathematics** | *Citrus College*
 
