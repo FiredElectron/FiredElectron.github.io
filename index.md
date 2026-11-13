@@ -38,7 +38,11 @@ This paper looks at how autonomously cleaning solar panels mechanically could be
 ## Projects
 **Deep Space Robotic Arm Module** | *Arduino, soldering, circuit design*  
 Worked in an interdisciplinary group of four to design a robotic arm module for gathering data on deep space missions.  
-[Demo](#)
+
+<video style="width: 100%; max-width: 500px; max-height: 450px; border-radius: 8px;" autoplay loop muted playsinline>
+  <source src="Robotic Arm Module NASA CA SGC.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
