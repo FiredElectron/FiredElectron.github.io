@@ -28,7 +28,7 @@ Expected graduation in December 2028.
 
 This paper looks at how autonomously cleaning solar panels mechanically could be a source of damage due to scratches from rough sand particles; further investigation is needed. [Read Paper](https://files.citruscollege.edu/academics/physics/lillianleroy2026ada.pdf)
 
-<video width="100%" controls>
+<video style="width: 100%; max-width: 500px; max-height: 450px; border-radius: 8px;" autoplay loop muted playsinline>
   <source src="Autonomous Photovoltaic Test Platform Demonstration.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
