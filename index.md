@@ -50,8 +50,8 @@ Worked in an interdisciplinary group of four to design a robotic arm module for 
 ---
 
 ## Education 
-**B.S. in Electrical Engineering** | *California State Polytechnic University, Pomona* 
-Expected: December 2028
+**B.S. in Electrical Engineering** | *California State Polytechnic University, Pomona*  
+Expected: May 2029
 
 **A.S. in Physics, A.S. in Mathematics** | *Citrus College*
 **GPA:** 3.6 * 
