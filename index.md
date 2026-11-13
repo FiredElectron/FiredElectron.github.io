@@ -32,8 +32,17 @@ This paper looks at how autonomously cleaning solar panels mechanically could be
 
 ## Projects
 **Deep Space Robotic Arm Module** | *Arduino, soldering, circuit design*  
-    Worked in an interdisciplinary group of four to design a robotic arm module for gathering data on deep space missions.
-    [[Demo](#)]
+Worked in an interdisciplinary group of four to design a robotic arm module for gathering data on deep space missions.  
+[Demo](#)
+
+**Autonomous Photovoltaic Cleaning Platform** | *electromechanical system, testing with digital multimeter, firmware*  
+Independent research project looking at the effect of cleaning cycles on solar panel efficiency.
+
+<video width="100%" controls>
+  <source src="Autonomous Photovoltaic Test Platform Demonstration.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
