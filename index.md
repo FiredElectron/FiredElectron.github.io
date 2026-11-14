@@ -4,7 +4,7 @@ permalink: /
 author_profile: false
 ---
 
-<img src="/LillianLeRoyHeadshot.JPG" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1; min-width: 160px; border: 3px solid rgba(255,255,255,0.15);" alt="Lillian LeRoy"> <br> **Lillian LeRoy** <br><br> *Electrical Engineering Junior at California State Polytechnic University, Pomona* <br><br> Azusa, CA &nbsp;&nbsp; ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) &nbsp;&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/lillianleroy-student) &nbsp;&nbsp; 📄 [Download Resume](https://github.com/user-attachments/files/34860145/Lillian.LeRoy.Resume.Updated.pdf)
+<img src="/LillianLeRoyHeadshot.JPG" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1; min-width: 160px; border: 3px solid rgba(255,255,255,0.15);" alt="Lillian LeRoy"> <br> **Lillian LeRoy** <br><br> *Electrical Engineering Junior at California State Polytechnic University, Pomona* <br><br> Azusa, CA &nbsp;&nbsp; ✉️ [lillyleroy52@gmail.com](mailto:lillyleroy52@gmail.com) &nbsp;&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/lillianleroy-student) &nbsp;&nbsp; 📄 [Download Resume](https://github.com/user-attachments/files/34860145/Lillian.LeRoy.Resume.Updated.pdf)
 
 
 ---
